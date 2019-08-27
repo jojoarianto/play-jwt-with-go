@@ -1,0 +1,7 @@
+# IDE
+.idea/
+
+# coverage report
+coverage.out
+
+*.out
